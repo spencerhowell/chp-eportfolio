@@ -4,7 +4,6 @@ layout: default
 # Academics 📙
 
 ### Fall 2017 Semester
-
 - COSC 130 -- Computer Organization
 - EF 157 -- Honors Physics for Engineers I
 - MATH 142 -- Calculus II
@@ -12,7 +11,6 @@ layout: default
 - FYS 101 -- The UT Experience
 
 ### Spring 2018 Semester
-
 - COSC 140 -- Data Structures and Algorithms I
 - EF 158 -- Honors Physics for Engineers II
 - ENGL 298 -- Chancellor's Honors Writing II
