@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome! 👨‍💻 
+# Welcome! :tangerine: 
 ![Me in Neyland](./img/me.jpg)
 
 Hello, I’m Spencer Howell, and this is my ePortfolio! I am a senior here at the University of Tennessee, Knoxville, where I am majoring in computer science in the Tickle College of Engineering with a minor in entrepreneurship from the Haslam College of Business.
