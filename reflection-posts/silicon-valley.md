@@ -27,7 +27,7 @@ A major part of the trip was visiting different companies in the area and learni
 
   - **Pariveda Solutions** let us come into their San Francisco office and chat with the managers and developers. I learned a lot about the business model of a consulting company and decided that being a consultant is an enticing career path option! 
 
-![The HP Garage]({{ site.baseurl }}/images/hp-garage.jpg)
+![The HP Garage](/images/hp-garage.jpg)
 *The garage that HP (and Silicon Valley) was started out of!*
 
 ## San Francisco Sights

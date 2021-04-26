@@ -27,7 +27,7 @@ Hosting a student event is a large undertaking with lots of moving parts and tas
 
 As I entered leadership positions in CEB, I found that organizing work became more and more important. I strove to ensure that all members had a clear task assigned, and that each person had the resources they needed to accomplish it. I even set up a "task board" system for our marketing chairs to use this past year, inspired by agile software development practices!
 
-![CEB Marketing Notion Board](/chp-eportfolio/img/ceb-notion.jpg)
+![CEB Marketing Notion Board](/chp-eportfolio/img/ceb-notion.png)
 *The task board for CEB marketing, created using Notion*
 
 Setting teams up for success is the most important role for a leader in a student organization, in my opinion, and it's something I hope to continue to improve at in the future.
@@ -41,9 +41,13 @@ For the last year, I've served as the VP of Communications for CEB. I have worke
 *The CEB Entertainment Committee with Ben Schwartz!*
 
 ### The Power of Community
-While my reasons for joining CEB were simply to be a part of these cool events, I soon found that CEB does more than just bring in free food and bouncy castles. Student events allow those on campus to relax, have fun, learn something, and connect with each other. Seeing students enjoying events and making new friends was incredibly rewarding, and after my first Vol Night Long it had me hooked.
+While my reasons for joining CEB were simply to be a part of these cool events, I soon found that CEB does more than just bring in free food and bouncy castles. Student events allow people on campus to relax, have fun, learn something, and connect with each other. Seeing students enjoy events and make new friends was incredibly rewarding, and after my first Vol Night Long it had me hooked.
 
-I'm glad to have been a part of one of the many amazing student organizations that create spaces for students to build a sense of community at UT. Planning events has made me realize that students have the power to create the culture on campus at UT. We should all work to make it as open, inclusive, and engaging as possible.
+I'm glad to have been a part of one of the many amazing student organizations that create spaces for students to build a sense of community at UT. Planning events has made me realize that students have the power to create the culture on campus at UT. We should all work to make it as open, inclusive, engaging, and fun as possible.
+
+College is only a few short years -- let's make the most of it!
 
 ![CEB Exec 2020-2021](/chp-eportfolio/img/ceb-exec.jpg)  
 *The CEB Fall 2020 - Spring 2021 Exec Board*
+
+*Interested in joining Campus Events Board? Check out our Instagram [@utkceb](www.instagram.com/utkceb) for more information! Feel free to reach out using a DM to ask about upcoming recruitment!*

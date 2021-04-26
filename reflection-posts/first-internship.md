@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: default 
 ---
 *My experience at Garmin Ltd.*
 
@@ -17,7 +17,7 @@ The development team used an Agile workflow, and I was able to participate and l
 
 I participated in daily stand-up meetings, sprint planning, and sprint review meetings. At first I operated more as a "fly on the wall," observing and learning from what others said. By the end of the twelve weeks, I felt more comfortable speaking up and had a deeper understanding of the process.
 
-While I had knowlege of the Agile methodology before, participating in it allowed me to learn a lot and see just how powerful it is. I now feel prepared to jump right into Agile teams in the future. The best way to learn about Agile is to be a part of it!
+While I had knowledge of the Agile methodology before, participating in it allowed me to learn a lot and see just how powerful it is. I now feel prepared to jump right into Agile teams in the future. The best way to learn about Agile is to be a part of it!
 
 ### 2. Surviving code review
 

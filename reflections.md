@@ -3,7 +3,7 @@ layout: default
 ---
 # Reflections
 
-### [What Becoming An Event Planner Taught Me](/chp-eportfolio/reflection-posts/ceb-reflections.html)
+### [What Becoming An Event Planner Taught Me](/chp-eportfolio/reflection-posts/ceb-reflection.html)
 
 ### [What I Learned at My First Software Engineering Internship](/chp-eportfolio/reflection-posts/first-internship.html)
 
