@@ -13,7 +13,7 @@ layout: default
 - ECE 453 -- Introduction to Computer Networks
 - ENT 462 -- Innovation and Creativity
 
-### Fall 2020 Semester
+### [Fall 2020 Semester](/chp-eportfolio/class-recaps/academics-fall-2020-recap.html)
 - COSC 401 -- Senior Design Theory
 - COSC 462 -- Parallel Programming
 - COSC 594 -- Advanced Algorithms and Programming
