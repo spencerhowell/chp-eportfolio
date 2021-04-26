@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# What Becoming An Event Planner Taught Me
+# What Planning Student Events Taught Me
 
 *My experience as a member of the Campus Events Board*
 
