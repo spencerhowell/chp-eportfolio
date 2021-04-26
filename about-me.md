@@ -17,4 +17,4 @@ I am now working as a Software Engineer Intern for Garmin. I am currently a memb
 
 ![Me as a Garmin Intern](/chp-eportfolio/img/me-at-garmin.jpg)
 
-I'm now looking forward to continuing my education next year by pursuing a master's degree in computer science at UT. As part of the 5 year BS/MS program, I have been taking several graduate-level courses during my senior year, and should complete the degree by next spring. After that, I will enter the workforce as a software engineer.
+I'm now looking forward to continuing my education next year by pursuing a master's degree in computer science at UT. As part of the 5 year BS/MS program, I have been taking several graduate-level courses during my senior year, and should complete the degree by next spring. After that, I plan to enter the workforce as a software engineer.
