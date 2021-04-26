@@ -2,7 +2,7 @@
 layout: default
 ---
 # Senior Design Project
-*Please note: My senior design team is still working on finishing up our project, so images are not final! They will be updated when the final project is completed.*
+*Please note: My senior design team is still working on finishing up our project, so this page is not final! It will be updated when the final project deliverable is complete.*
 ### Team Members: Ben Greenberg, Tucker Miles, Vicki Tang, Daniel Troutman
 
 As a part of the Electrical Engineering and Computer Science department's curriculum at UT, all seniors take senior design courses (COSC 401 Senior Design Theory and COSC 402 Senior Design Practicum). Part of these courses is to create a project as part of a senior design team.
