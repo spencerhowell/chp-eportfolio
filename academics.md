@@ -27,7 +27,7 @@ layout: default
 - ENT 451 -- New Venture Planning
 - IE 405 -- Engineering Economic Analysis
 
-### [Fall 2019 Semester](/chp-eportfolio/class-recaps/academics-fall-2019-recap.md)
+### [Fall 2019 Semester](/chp-eportfolio/class-recaps/academics-fall-2019-recap.html)
 - COSC 361 -- Operating Systems
 - COSC 494 -- Unconventional Computation
 - ECE 313 -- Probability and Random Variables
