@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# About Me 👨‍💻 
+# About Me 
 
 Before moving to Knoxville for college, I grew up in Murfreesboro, Tennessee with my sister Macey and my brother Bryson. I went to Central Magnet School, where I gained an interest in computers and software through the computer club, robotics team, and three years of computer science courses.
 
