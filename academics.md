@@ -20,7 +20,7 @@ layout: default
 - ENT 460 -- Leading Innovation and Change
 - PHIL 244 -- Professional Responsibility
 
-### Spring 2020 Semester
+### [Spring 2020 Semester](/chp-eportfolio/class-recaps/academics-spring-2020-recap.html)
 - COSC 365 -- Programming Languages and Systems
 - COSC 466 -- Software Security
 - ENGL 360 -- Technical and Professional Writing
