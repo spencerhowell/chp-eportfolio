@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: default 
 title: Fall 2019 Semester Recap
 ---
-*Some code, some electives, and some fun!*
-
-Hey there!
 
 I've just finished my fifth semester at the University of Tennessee, Knoxville. My Junior year is off to a great start! Here's an update on what I learned and what I did!
 
