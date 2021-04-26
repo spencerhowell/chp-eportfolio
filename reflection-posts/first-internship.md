@@ -1,6 +1,7 @@
 ---
 layout: default 
 ---
+# What I Learned at My First Software Engineering Internship
 *My experience at Garmin Ltd.*
 
 For twelve weeks over this past summer I worked at Garmin as a Software Engineer Intern at their headquarters in Olathe, Kansas.
