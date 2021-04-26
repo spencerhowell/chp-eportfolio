@@ -1,6 +1,7 @@
 ---
 layout: default 
 ---
+# Spring 2020 Semester Recap
 
 The end of my Junior year at UT was certainly unconventional. Courses went completely remote following Spring Break due to COVID-19. Therefore, all of my classes shifted from being in-person to being remote, where I completed them from my parent's home.
 
